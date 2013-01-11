@@ -1,7 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'sceneeditor.ui'
 **
-** Created: Fri Dec 7 16:01:43 2012
+** Created: Fri Jan 11 10:04:24 2013
 **      by: Qt User Interface Compiler version 4.8.4
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!

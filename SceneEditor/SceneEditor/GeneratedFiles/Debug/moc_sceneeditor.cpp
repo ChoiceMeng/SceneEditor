@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'sceneeditor.h'
 **
-** Created: Fri Dec 7 16:01:40 2012
+** Created: Fri Jan 11 15:37:43 2013
 **      by: The Qt Meta Object Compiler version 63 (Qt 4.8.4)
 **
 ** WARNING! All changes made in this file will be lost!
